@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+header{
+    height: 80px;
+}
+header li{
+    text-align: right;
+    float: right;
+    padding-left: 5px;
+    margin-top: 10px;
+    text-decoration: none;
+    margin-right: 14px;
+    border-radius: 7px;
+    background-image: linear-gradient(purple red);
+    font-weight: bold;
+    color: darkgreen; 
+    list-style: none;
+
+
+}
+li {
+    background-color: silver;
+    text-transform: capitalize;
+    
+}
+h1{
+    font-size: 28px;
+}
+.Blue-color{
+    font-weight: bold;
+    color: tomato;
+}
+.first-part{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 3%;
+
+}
+.first-part img{
+    width: 100%;
+    height: 550px;
+
+}
+.link-button{
+    background-image: linear-gradient(purple, red);
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    color: yellow;
+    padding: 2px;
+}
+section{
+    height: 575px;
+    padding-bottom: 100px;
+}
+.project{
+    background-color: lightgray;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 1px;
+    border-radius: 10px;
+
+}
+.project-section{
+    width: 31%;
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+
+}
+.project-section img{
+    width: 100%;
+    height: auto;
+    box-shadow: 10px 10px 40px gray;
+
+}
+section h2{
+    height: 100px;
+    font-size:50px;
+    color:rgb(78, 107, 19);
+    padding-top: 20px;
+}
+.inquiry img{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50px;
+    width: 60%;
+    height: 200px;
+}
+
+    
+ 
+h4{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+ h5{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.hello{
+    height: 300px;
+    background-image: linear-gradient( 108deg green  silver );
+
+}
+
+
+.hello img{
+    height:100px ;
+    margin-left:250px;
+    
+    position: center; 
+    width: 10%;
+    float: left;
+    text-align: center;
+}
